@@ -1459,5 +1459,3 @@ encoder.transform(X)
 ```
 
 `fit()` aur `transform()` dono alag-alag kya kaam kar rahe hain?
-
-**Next: Chapter 2 me hum `fit()` ko deep dive me samjhenge — `fit()` actually andar kya karta hai, `fit(X)` vs `fit(X, y)`, learned parameters, training aur common mistakes.**

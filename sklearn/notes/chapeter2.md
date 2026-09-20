@@ -1097,7 +1097,7 @@ usko use karke X_train scale karo.
 
 ### Step 3
 
-```python
+```python 
 scaler.transform(X_test)
 ```
 
@@ -1668,4 +1668,4 @@ model.fit(X_train, y_train)
 
 yahan `X_train` aur `y_train` dono kyon chahiye?
 
-**Next Chapter 3: `transform()` Deep Dive** — `transform()` exactly kya karta hai, training/test data par kaise use hota hai, `fit()` vs `transform()`, aur new/unseen data ko safely transform kaise karte hain.
+
