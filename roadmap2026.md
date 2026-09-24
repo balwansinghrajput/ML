@@ -55,7 +55,7 @@
 **11. Deployment / MLOps**
 - Flask / FastAPI
 - Docker
-- Git & GitHub
+- Git & GitHub (Done)
 
 **12. Soft Skills**
 - Business/Domain Understanding
